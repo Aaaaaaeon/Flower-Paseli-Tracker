@@ -4,7 +4,6 @@ A simple, copy-paste browser console script to track and visualize your PASELI r
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## 📖 About
 
