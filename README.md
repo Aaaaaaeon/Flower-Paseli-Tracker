@@ -31,7 +31,7 @@ No installation or browser extension is required. The script runs locally in you
 > **Note for Chrome users:** If this is your first time pasting code into the console, you may need to type `allow pasting` and hit Enter to unlock this feature.
 
 ### 3. Run the Script
-1. Copy the entire code from the `script.js` file in this repository.
+1. Copy the entire code from the [script.js](script.js) file in this repository.
 2. Paste it into the console.
 3. Press **Enter**.
 
