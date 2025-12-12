@@ -12,7 +12,8 @@ A simple, copy-paste browser console script to track and visualize your PASELI r
 *   💰 **Total PASELI redeemed**
 *   💶 **Estimated real currency cost** (default: 100p = 1€)
 *   📈 **Average transaction value**
-*   🔝 **Largest & Smallest single transactions** (with dates)
+*   🔝 **Largest & Smallest single transactions**
+*   🎶 **Statistics on each game**
 
 No installation or browser extension is required. The script runs locally in your session and sends no data externally.
 
