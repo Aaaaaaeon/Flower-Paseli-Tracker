@@ -35,20 +35,38 @@ No installation or browser extension is required. The script runs locally in you
 3. Press **Enter**.
 
 ### 4. View Results
-The script will automatically navigate through your transaction pages (adding a small delay to avoid rate limits). Once finished, a colorful report will appear in the console:
-*   📊 FINAL REPORT
-*   💰 TOTAL REDEEMED VALUE : 15000p
-*   💶 ESTIMATED SPENT : 150.00€ (at 100p = 1€)
-*   ↔️ Transaction Count : 25
-*   📉 Average Transaction : 600p / transaction
-*   🔝 Largest Transaction : 1000p (on 2024-12-01 18:30)
-*   🔻 Smallest Transaction : 100p (on 2024-11-15 14:20)
+The script will automatically navigate through your transaction pages (adding a small delay to avoid rate limits). Once finished, a colorful report will appear in the console, with the following informations:
+*   💰 TOTAL REDEEMED VALUE
+*   💶 ESTIMATED SPENT
+*   ↔️ Number of Redeemed Vouchers
+*   📉 Average Voucher Redeemed Value
+*   🔄 Most Common Redemmed Voucher Value
+*   🔝 Largest Redeemed Voucher Value
+*   🔻 Smallest Redeemed Voucher Value
+
+*   **Game : pop'n music**
+*   Total spent : 660p
+*   Transaction count : 8
+*   Total ratio : 1.8776671408250356%
+*   **Game : jubeat**
+*   Total spent 
+*   Total for Expert Option 
+*   Transaction count 
+*   Total ratio 
+*   **Game : SOUND VOLTEX**
+*   Total spent 
+*   Total for SDVX Printer
+*   Total for Premium Time
+*   Standard Start
+*   Light Start
+*   Transaction count
+*   Total ratio
 
 ## ⚙️ Configuration
 
 You can customize the script by editing the variables at the top of the code before pasting:
 // CONFIGURATION
-*   let forcedMaxPage = 0; // Set a number (e.g., 21) if auto-detection fails
+*   let forcedMaxPage = 0; // Set a number of pages if auto-detection fails
 *   const minDelay = 500; // Min delay between pages in ms (default: 0.5s)
 *   const maxDelay = 1000; // Max delay between pages in ms (default: 1.0s)
 *   const pointsPerEuro = 100; // Conversion rate (default: 100p = 1€)
