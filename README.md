@@ -46,9 +46,9 @@ The script will automatically navigate through your transaction pages (adding a 
 *   🔻 Smallest Redeemed Voucher Value
 
 *   **Game : pop'n music**
-*   Total spent : 660p
-*   Transaction count : 8
-*   Total ratio : 1.8776671408250356%
+*   Total spent
+*   Transaction count 
+*   Total ratio 
 *   **Game : jubeat**
 *   Total spent 
 *   Total for Expert Option 
