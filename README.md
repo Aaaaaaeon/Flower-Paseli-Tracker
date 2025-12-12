@@ -54,6 +54,9 @@ You can customize the script by editing the variables at the top of the code bef
 *   const maxDelay = 1000; // Max delay between pages in ms (default: 1.0s)
 *   const pointsPerEuro = 100; // Conversion rate (default: 100p = 1€)
 
+## 📜 The Script
+
+You can find the full script in the [script.js](script.js) file. Open it, copy the content, and paste it into your console.
 
 ## ⚠️ Disclaimer
 
@@ -68,3 +71,4 @@ Feel free to fork this repository and submit pull requests if you want to improv
 ---
 
 *Enjoying your stats? Don't be shy to star the repo and share your results!* ⭐
+
