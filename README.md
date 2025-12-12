@@ -61,7 +61,8 @@ The script will automatically navigate through your transaction pages (adding a 
 *   Light Start
 *   Transaction count
 *   Total ratio
-
+  
+> **Small note** The script does not count transactions made with free paseli mode enabled
 ## ⚙️ Configuration
 
 You can customize the script by editing the variables at the top of the code before pasting:
